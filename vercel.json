@@ -1,0 +1,6 @@
+{
+    "rewrites": [
+        { "source": "/pg", "destination": "https://pg.mastrero.vercel.app/" },
+        { "source": "/:staticFiles*", "destination": "https://pg.mastrero.vercel.app/:staticFiles*" }
+    ]
+}

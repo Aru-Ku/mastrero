@@ -1,7 +1,7 @@
 <section id="introduction">
   <img align="right" alt="GIF" width="45%" src="https://github.com/mastrero/assets/raw/main/mastrero/Myself.gif" />
   <h1>Hello 👋🏻,<br>I'm 
-  <a style="font-size: 2rem;" href="https://mastero.vercel.app/">ArunKumar Nadikattu</a>
+  <a style="font-size: 2rem;" href="https://mastrero.vercel.app/">ArunKumar Nadikattu</a>
   </h1>
 </section>
 
@@ -56,8 +56,8 @@ Reach out to me 👇🏻
 ---
 
 <div>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=mastrero&show_icons=true&theme=radical&hide_border=true" alt="stats" >
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=mastrero&theme=radical&hide_border=true" alt="stats" >
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=mastrero&bg_color=0d1117&text_color=ffffff&title_color=ffffff&hide_border=true&show_icons=true&icon_color=fb8c0" alt="stats" >
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=mastrero&theme=dark&hide_border=true&background=0D1117&stroke=0000" alt="stats" >
 </div>
 
 <!-- <div style="text-align: center;">
