@@ -61,7 +61,7 @@ Reach out to me 👇🏻
 </div>
 
 <!-- <div style="text-align: center;">
-  <img height="240" src="https://activity-graph.herokuapp.com/graph?username=mastrero&theme=rogue&hide_border=true" alt="stats" >
+  <img height="240" src="https://activity-graph.herokuapp.com/graph?username=aru-ku&theme=rogue&hide_border=true" alt="stats" >
 </div> -->
 
 ---
