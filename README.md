@@ -56,7 +56,7 @@ Reach out to me 👇🏻
 ---
 
 <div>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=mastrero&bg_color=0d1117&text_color=ffffff&title_color=ffffff&hide_border=true&show_icons=true&icon_color=fb8c0" alt="stats" >
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=aru-ku&bg_color=0d1117&text_color=ffffff&title_color=ffffff&hide_border=true&show_icons=true&icon_color=fb8c0" alt="stats" >
   <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=mastrero&theme=dark&hide_border=true&background=0D1117&stroke=0000" alt="stats" >
 </div>
 
